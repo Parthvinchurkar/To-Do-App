@@ -1,0 +1,1 @@
+This is a To-do-app Made By me By using React in which javascipt css and html has been used Step 1: Clone this file. Step 2: npm install(Please check you have install npm and node in your systems) Step 3: Then Run the command by opening the project in integrated terminal and run COMMAND npm run dev
